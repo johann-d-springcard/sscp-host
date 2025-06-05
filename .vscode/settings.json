@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sscp-host.h": "c",
+        "types.h": "c"
+    }
+}
